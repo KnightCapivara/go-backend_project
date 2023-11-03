@@ -6,7 +6,7 @@ import (
 	"database/sql"
 	"net/http"
 
-	db "github.com/GustavoNoronha0/gofinance-backend/db/sqlc"
+	db "github.com/KnightCapivara/go-backend_project/db/sqlc"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/crypto/bcrypt"
 )
