@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/GustavoNoronha0/gofinance-backend/api"
-	db "github.com/GustavoNoronha0/gofinance-backend/db/sqlc"
+	"github.com/KnightCapivara/go-backend_project/api"
+	db "github.com/KnightCapivara/go-backend_project/db/sqlc"
 	"github.com/joho/godotenv"
 	_ "github.com/lib/pq"
 )
